@@ -1,0 +1,3 @@
+Manifest-Version: 1.0-SNAPSHOT
+Created-By: Jeppe
+Main-Class: com.jeppe.passwordfolder.Main
