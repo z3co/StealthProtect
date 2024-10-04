@@ -1,0 +1,8 @@
+services:
+  app:
+    build: .
+    container_name: password-folder
+    volumes:
+      - ./src/:/code/
+    env_file:
+      - .env
