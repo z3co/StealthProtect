@@ -11,7 +11,7 @@ Stealth Protect is a security tool designed to run at startup on Windows systems
 ## Installation
 
 1. Ensure you have Java installed on your system.
-2. Download the JAR file from the [releases page](https://github.com/z3co/PasswordFolder/releases).
+2. Download the JAR file from the [releases page](https://github.com/z3co/StealthProtect/releases).
 3. Place the JAR file in your startup folder:
    - Press `Win + R` to open the Run dialog, type `shell:startup`, and press Enter.
    - Copy the JAR file to the opened folder.
@@ -24,7 +24,7 @@ Stealth Protect is a security tool designed to run at startup on Windows systems
 
 ## Contributing
 
-We welcome contributions to improve PasswordFolder. You can contribute by opening an issue or submitting a pull request on GitHub. For further inquiries, you can also reach out via email at Jepper123411@proton.me.
+We welcome contributions to improve StealthProtect. You can contribute by opening an issue or submitting a pull request on GitHub. For further inquiries, you can also reach out via email at Jepper123411@proton.me.
 
 ## License
 
