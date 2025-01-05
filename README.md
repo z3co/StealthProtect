@@ -1,6 +1,6 @@
 # Stealth Protect
 
-PasswordFolder is a security tool designed to run at startup on Windows systems. It waits 10 seconds and then checks if a file named `IAMHERE` exists on your desktop. If the file is not found, the program will initiate a system shutdown. This acts as a security measure to ensure that only authorized users who know to create the file can keep the system running.
+Stealth Protect is a security tool designed to run at startup on Windows systems. It waits 10 seconds and then checks if a file named `IAMHERE` exists on your desktop. If the file is not found, the program will initiate a system shutdown. This acts as a security measure to ensure that only authorized users who know to create the file can keep the system running.
 
 ## Features
 
