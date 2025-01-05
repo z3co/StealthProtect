@@ -6,7 +6,7 @@ Stealth Protect is a security tool designed to run at startup on Windows systems
 
 - **Security and Privacy:** Ensures the computer is used only by those who know the security measure.
 - **Easy Installation:** Simply install the JAR file from the releases page and add it to your startup folder.
-- **Compatibility:** Works exclusively on Windows systems.
+- **Compatibility:** Only supported for windows systems 
 
 ## Installation
 
